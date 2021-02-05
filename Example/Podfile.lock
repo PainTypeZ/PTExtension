@@ -1,0 +1,16 @@
+PODS:
+  - PTSwiftExtension (0.1.0)
+
+DEPENDENCIES:
+  - PTSwiftExtension (from `../`)
+
+EXTERNAL SOURCES:
+  PTSwiftExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PTSwiftExtension: ef3a50bcf5d9b1e87c027551dd0a595a4e117a83
+
+PODFILE CHECKSUM: 00e07cff8b19497e8d19a1bdb2dba619d08659f3
+
+COCOAPODS: 1.10.0

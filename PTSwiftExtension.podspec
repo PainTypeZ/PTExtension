@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'PTSwiftExtension'
   s.version          = '0.1.0'
   s.summary          = 'A short description of PTSwiftExtension.'
-
+  s.swift_versions   = '5.3.0'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/pengpingjun@icloud.com/PTSwiftExtension'
+  s.homepage         = 'https://github.com/PainTypeZ/PTSwiftExtension'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'pengpingjun@icloud.com' => 'pengpingjun@icloud.com' }
-  s.source           = { :git => 'https://github.com/pengpingjun@icloud.com/PTSwiftExtension.git', :tag => s.version.to_s }
+  s.author           = { 'PainTypeZ' => 'pengpingjun@icloud.com' }
+  s.source           = { :git => 'https://github.com/PainTypeZ/PTSwiftExtension.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '11.0'
 
-  s.source_files = 'PTSwiftExtension/Classes/**/*'
+  s.source_files = 'PTSwiftExtension/Sources/**/*'
   
   # s.resource_bundles = {
   #   'PTSwiftExtension' => ['PTSwiftExtension/Assets/*.png']

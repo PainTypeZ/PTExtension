@@ -1,0 +1,6 @@
+framework module PTSwiftExtension {
+  umbrella header "PTSwiftExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

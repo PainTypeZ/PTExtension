@@ -1,0 +1,6 @@
+framework module Pods_PTSwiftExtension_Example {
+  umbrella header "Pods-PTSwiftExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
