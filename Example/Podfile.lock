@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PTSwiftExtension: ef3a50bcf5d9b1e87c027551dd0a595a4e117a83
+  PTSwiftExtension: 51d6ce385edd2c692bebaa88dcdd4bc528bdd025
 
 PODFILE CHECKSUM: 00e07cff8b19497e8d19a1bdb2dba619d08659f3
 
